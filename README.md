@@ -10,36 +10,6 @@
 
 <br/>
 
-<!--
-😶‍🌫️👻💀☠️
-🐺🦝🐰🐻‍❄️🐩🐘🐇🦈🦭🐚🕊️🦢🪽🦤
-🕸️🦴🦷👀
-🦾🦿👟🏐⛸️🎱🥋🥈
-🎰🎲
-🪩🔈🔉🔊🎼🎙️🎤🎧📻
-🔧🔩🪨⚙️🔬🔗⛓️⛓️‍💥⚔️🔪
-🪦🗿🪧
-⌨️🖱️💿📽️
-📃📄📑📰🗞️🧾✉️🗳️🗒️✒️📎🖇️📏📐🗑️
-🧂🥡🍙🥛🍶🍽️🍴🥄🍵
-🌼
-🏳️🏛️🏢🏦
-🚽🧻🧷
-🌨️🌪️🌫️⛄
-🖤🩶🤍
-💨
-❕❔
-🔘⚪⚫⬜⬛◻️◼️◽◾▫️▪️🔲🔳
-💭🗯️💬🗨️
-🕚
--->
-
-<!--
-Source pour les badges : https://shields.io/
-Source pour les icones : https://simpleicons.org/
-Template : [![](https://img.shields.io/badge/--black?style=flat&logo=&logoColor=white)]()
--->
-
 **Programming languages**
 <br/>
 [![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=html5&logoColor=white)]()
@@ -89,10 +59,33 @@ Template : [![](https://img.shields.io/badge/--black?style=flat&logo=&logoColor=
 </div> 
 
 <!--
+Source for the badges : https://shields.io/
+Source for the icones : https://simpleicons.org/
+My badges template : [![](https://img.shields.io/badge/--black?style=flat&logo=&logoColor=white)]()
+-->
+
+<!--
+Gifs :
+
 https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXk3czJvYzd2YjYycDNsYWp0Z201azM1YnA1Y29kZzdqejAycmpnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1eEH7dQ2xwN95RwGQf/giphy.gif
 https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG0zd2k2czdscTA2bTI4YWxwMGN4amRwaTZjeTMxNzBxOHlvbHpnayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eurFuCy8b1t6mwYtfo/giphy.gif
 https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGg5NWZ0bnhrYXlnN2l6ZWI4ancyM2Z5Y2R5Y3VmcXI5NXMwZ212YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J4xxcbNFT2b2TRY7C3/giphy.gif
 https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ25rdmpkeXpraWk2MHRneWMxbDR4Y3BkNzd6aWFiaDFpOHBiM2F3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mTuvku74NSGnC/giphy.gif
 https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDF2N3g1bW4wNnl0bzAwanJ4NWx6b3IxbmY1aXNub3FtdHE0eG0wMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ku5EcFe4PNGWA/giphy.gif
 https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDAzb2Jxd2hqaWh4YTcxbTVmaWVibGFjOWd0MmphM3AybWFzMHZwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VEwtpK0E2KiMz8q7lF/giphy.gif
+-->
+
+<!--
+White / Grey emojis : 
+
+🐺🦝🐰🐻‍❄️🐩🐘🐇🦈🦭🐚🕊️🦢🪽🦤
+😶‍🌫️👻💀☠️🌼🕸️🦴🦷👀
+🧂🥡🍙🥛🍶🍽️🍴🥄🍵
+🦾🦿👟🏐⛸️🎱🥋🥈🎰🎲
+🪩🔈🔉🔊🎼🎙️🎤🎧📻⌨️🖱️💿📽️
+🔧🔩🪨⚙️🔬🔗⛓️⛓️‍💥⚔️🔪
+📃📄📑📰🗞️🧾✉️🗳️🗒️✒️📎🖇️📏📐🗑️
+🪦🗿🪧🏳️🏛️🏢🏦🧷🕚
+🌨️🌪️🌫️⛄💨💭🗯️💬🗨️
+🖤🩶🤍❕❔🔘⚪⚫⬜⬛◻️◼️◽◾▫️▪️🔲🔳
 -->
