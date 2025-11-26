@@ -44,19 +44,11 @@
   <img style="width:200px;" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG0zd2k2czdscTA2bTI4YWxwMGN4amRwaTZjeTMxNzBxOHlvbHpnayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eurFuCy8b1t6mwYtfo/giphy.gif" />
 </p>
 
-<div style="display:flex" width="100%">
-  <p align="right" width="50%">
-    <sub><em>“L'art consiste à inventer et non à copier.”</em></sub>
-    <br/>
-    <sup> Fernand Léger, Fonctions de la peinture, 1965 </sup>
-  </p>
-  
-  <p align="left" width="50%">
-    <sub><em>“The art challenges the technology, and the technology inspires the art.”</em></sub>
-    <br/>
-    <sup> John Lasseter </sup>
-  </p>
-</div> 
+<p align="center">
+  <sub><em>“The art challenges the technology, and the technology inspires the art.”</em></sub>
+  <br/>
+  <sup> John Lasseter </sup>
+</p>
 
 <!--
 Source for the badges : https://shields.io/
@@ -65,8 +57,7 @@ My badges template : [![](https://img.shields.io/badge/--black?style=flat&logo=&
 -->
 
 <!--
-Gifs :
-
+Gifs I like :
 https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXk3czJvYzd2YjYycDNsYWp0Z201azM1YnA1Y29kZzdqejAycmpnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1eEH7dQ2xwN95RwGQf/giphy.gif
 https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG0zd2k2czdscTA2bTI4YWxwMGN4amRwaTZjeTMxNzBxOHlvbHpnayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eurFuCy8b1t6mwYtfo/giphy.gif
 https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGg5NWZ0bnhrYXlnN2l6ZWI4ancyM2Z5Y2R5Y3VmcXI5NXMwZ212YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J4xxcbNFT2b2TRY7C3/giphy.gif
@@ -75,9 +66,13 @@ https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDF2N3g1bW4wNnl0bzAwanJ4NWx6b3
 https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDAzb2Jxd2hqaWh4YTcxbTVmaWVibGFjOWd0MmphM3AybWFzMHZwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VEwtpK0E2KiMz8q7lF/giphy.gif
 -->
 
+<!-- 
+Quotes I like : 
+“L'art consiste à inventer et non à copier.” - Fernand Léger, Fonctions de la peinture, 1965
+-->
+
 <!--
 White / Grey emojis : 
-
 🐺🦝🐰🐻‍❄️🐩🐘🐇🦈🦭🐚🕊️🦢🪽🦤
 😶‍🌫️👻💀☠️🌼🕸️🦴🦷👀
 🧂🥡🍙🥛🍶🍽️🍴🥄🍵
